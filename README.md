@@ -4,9 +4,9 @@
 
 ## 👉 Sample screenshots taken 
 
-<img src="screenshot/passworddoesntmatch.png" alt="signup - Screen" width="400"/><br>
+<img src="screenshot/passworddoesntmatch.PNG" alt="signup - Screen" width="400"/><br>
 
-<img src="screenshot/welcome.png" alt="login - Screen" width="400"/><br>
+<img src="screenshot/welcome.PNG" alt="login - Screen" width="400"/><br>
 
 
 ## 👉 Requirements
